@@ -12,3 +12,6 @@ __this is also strong__
 * an
 + unordered
 - list
+
+1. This is one
+2. this is two
