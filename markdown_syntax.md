@@ -23,3 +23,7 @@ __so is this__
 1. an
 2. ordered
 3. list
+
+- clone
+- checkout
+  + -b
