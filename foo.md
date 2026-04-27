@@ -1,5 +1,7 @@
 clone
+
 checkout
+
 -b
 status
 push
